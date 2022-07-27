@@ -31,5 +31,5 @@ Necessary assumptions: *Initially the experiments were performed on uniform dist
 12. Uniform distribution experiment with the criterion of linearization of dimensions
 13. Final update of the Hypercube D-rule inductor model; prediction method, accuracy and hypercube intersection ratio.
 14. Experiment in R3 with intersection ratio and adaptive clustering
-15. 5-dimensional final experiment; prediction function, time-series splitting with adaptive clustering and optimized rule extraction
+15. 5-dimensional final experiment; prediction, time-series splitting with adaptive clustering and optimized rule extraction
 16. Final comments and reflections.
